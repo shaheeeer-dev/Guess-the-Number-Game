@@ -22,8 +22,8 @@ Welcome to **Guess The Number**, a simple yet fun Java console game where you tr
 
 1. **Clone the repository** or copy the code:
    ```bash
-   git clone https://github.com/shaheeeer-dev/guess-the-number-java.git
-   cd guess-the-number-java
+   git clone https://github.com/shaheeeer-dev/Guess-the-Number-Game.git
+   cd Guess-the-Number-Game
 
 2. **Compile the program**:
    ```bash
