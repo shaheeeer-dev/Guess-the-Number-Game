@@ -16,24 +16,6 @@ Welcome to **Guess The Number**, a simple yet fun Java console game where you tr
   - `Score = 100 - (Number of Guesses × 10)`
 - After the game ends, you can choose to **play again**.
 
----
-
-## 🛠️ How to Run
-
-1. **Clone the repository** or copy the code:
-   ```bash
-   git clone https://github.com/shaheeeer-dev/Guess-the-Number-Game.git
-   cd Guess-the-Number-Game
-
-2. **Compile the program**:
-   ```bash
-   javac Main.java
-   ```
-
-3. **Run the game**:
-   ```bash
-   java Main
-   ```
 
 ---
 
